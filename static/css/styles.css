@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+strong{
+    font-size: 5vh;
+}
+table{
+    display: inline-block;
+    margin-top: 5vh;
+    font-size: 3vh;
+}
+input{
+    width: 25vw;
+    margin-left: 5vh;
+    margin-right: 2vh;
+    margin-bottom: 1vh;
+    font-size: 3vh;
+    display: inline-block;
+}
+td{
+    padding: 1vh;
+}
+#submit{
+    font-size: 2.3vh;
+    margin-top: 30vh;
+    margin-left: 25.5vw;
+    width: 10vw;
+    position: absolute;
+}
